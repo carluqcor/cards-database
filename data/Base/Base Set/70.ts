@@ -13,7 +13,7 @@ const card: Card = {
 	rarity: "Rare",
 	category: "Trainer",
 	set: Set,
-	cameoDexIds: [35],
+	dexId: [35],
 	hp: 10,
 
 	effect: {
