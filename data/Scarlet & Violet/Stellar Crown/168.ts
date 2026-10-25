@@ -4,7 +4,6 @@ import Set from "../Stellar Crown"
 const card: Card = {
 	dexId: [596],
 	set: Set,
-	cameoDexIds: [1024],
 
 	name: {
 		en: "Galvantula ex",

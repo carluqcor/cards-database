@@ -19,7 +19,7 @@ const card: Card = {
 	category: "Pokemon",
 	dexId: [807],
 
-	cameoDexIds: [807, 943],
+	cameoDexIds: [807],
 
 	hp: 270,
 	types: ["Lightning"],
