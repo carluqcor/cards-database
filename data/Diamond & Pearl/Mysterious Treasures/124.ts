@@ -5,7 +5,8 @@ const card: Card = {
 	name: {
 		en: "Time-Space Distortion",
 		fr: "Altération espace-temps",
-		de: "Raum-Zeit-Verzerrung"
+		de: "Raum-Zeit-Verzerrung",
+		es: "Distorsión Espacio-Tiempo"
 	},
 
 	illustrator: "Shizurow",
